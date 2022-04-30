@@ -21,5 +21,6 @@ class Carro(
     val anoFabricacao: Long?,
     val cor: String?,
     val data: LocalDate? = LocalDate.now()
+
 )
 
